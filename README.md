@@ -1,4 +1,4 @@
-# Wii Game Converter
+# Wiiso2USB - Easy Wii Game Converter (Linux optimised)
 
 Outil Python pour convertir des fichiers ISO/RVZ de jeux Wii en format WBFS et les copier sur une cle USB.
 
